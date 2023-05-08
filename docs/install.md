@@ -48,7 +48,7 @@ you can use more CUDA versions such as 9.0.
 c. Clone the OBBDetection repository.
 
 ```shell
-git clone https://github.com/jbwang1997/OBBDetection.git --recursive
+git clone https://github.com/Nuruyawild/Final-Project.git --recursive
 cd OBBDetection
 ```
 
